@@ -46,3 +46,5 @@ This content pack provides
 ## Screenshots
 
 #InGate Siparator Firewall
+
+![Dashboard](http://i.imgur.com/lREvkIj.png)
