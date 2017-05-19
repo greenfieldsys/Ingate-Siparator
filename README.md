@@ -47,4 +47,4 @@ This content pack provides
 
 #InGate Siparator Firewall
 
-![Dashboard](http://i.imgur.com/lREvkIj.png)
+![Dashboard](https://github.com/greenfieldsys/Ingate-Siparator/blob/master/gl-sbc.jpg)
